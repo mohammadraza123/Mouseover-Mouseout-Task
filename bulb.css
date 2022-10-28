@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(11, 11, 11);
+    background-image: url("photos/background.png");
+    background-attachment: fixed;
+}
+
+img {
+    height: 500px;
+    margin: 150px 0 0px 38%;
+    border: 20px red solid;
+    border-radius: 20px;
+    background: transparent;
+}
